@@ -27,7 +27,7 @@ dan, Mengelola data dengan ArrayList.
   
 ### 2. Kelas Mahasiswa (Model)
   
-a. Menyimpan informasi mahasiswa.
+a. Menyimpan informasi mahasiswa.  
 b. Memiliki getter dan setter untuk mengakses dan mengubah data.
 
 # ALUR PROGRAM
