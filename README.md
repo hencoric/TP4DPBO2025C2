@@ -68,7 +68,5 @@ e. Menghapus Data Mahasiswa
 
 # DOKUMENTASI
 
-
-![TP4](https://github.com/user-attachments/assets/a3c2f139-f928-44b0-8a84-dd7fd4ec2b01)
-
+https://github.com/user-attachments/assets/599f6452-08eb-4963-bb1f-82c46e0d7811
 
