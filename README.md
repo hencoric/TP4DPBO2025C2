@@ -14,16 +14,16 @@ Program ini adalah Aplikasi Manajemen Data Mahasiswa berbasis Java Swing, yang m
 ## Komponen Utama:
 
 ### 1. Kelas Menu (GUI Utama)
-a. Menggunakan JFrame sebagai window utama.
-b. Menggunakan JTable untuk menampilkan daftar mahasiswa.
-c. Memiliki beberapa input field: JTextField, JComboBox, dan JRadioButton untuk memasukkan data.
+a. Menggunakan JFrame sebagai window utama.  
+b. Menggunakan JTable untuk menampilkan daftar mahasiswa.  
+c. Memiliki beberapa input field: JTextField, JComboBox, dan JRadioButton untuk memasukkan data.  
   
-Dilengkapi tombol:
-a. Add/Update untuk menambah atau memperbarui data.
-b. Delete untuk menghapus data.
-d. Cancel untuk mengosongkan input.
+Dilengkapi tombol:  
+a. Add/Update untuk menambah atau memperbarui data.  
+b. Delete untuk menghapus data.  
+d. Cancel untuk mengosongkan input  
   
-dan, Mengelola data dengan ArrayList.
+dan, Mengelola data dengan ArrayList.  
   
 ### 2. Kelas Mahasiswa (Model)
   
